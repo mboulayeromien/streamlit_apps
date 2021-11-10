@@ -4,11 +4,3 @@ st.write("""
 hello *world*""")
 df  = pd.read_csv('book1.csv')
 st.line_chart(df)
-# .streamlit/secrets.toml
-
-
-host = "localhost"
-port = 3306
-database = "pets"
-user = "merci@gmail.com"
-password = "romienmerci"
