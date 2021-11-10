@@ -1,4 +1,4 @@
-import pandas as pd, streamlit as st
+import pandas as pd, streamlit as st numpy as np
 st.write("""
 # My first streamlit app
 hello *world*""")
